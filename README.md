@@ -11,7 +11,6 @@
 - 🏢 Founder of **[Devguard Systems]** — Managed SOC/NOC-as-a-Service, GRC Advisory, and Security Awareness Training for SMBs
 - 🎓 Pursuing MS in Software Engineering at Regis University
 - 🧠 Psychology background → human risk, social engineering & security behavior research
-- 📖 Currently studying for CISSP | Threat modeling | Kali Linux / ethical hacking
 
 ---
 
@@ -33,6 +32,6 @@
 
 ### Open to opportunities
 
-`Cybersecurity Operations Lead` `GRC Analyst` `Technical Support Engineering`
+`Cybersecurity Operations Technician` `GRC Analyst` `Technical Support Engineer` `Junior Software Developer`
 
 📬 [LinkedIn](https://www.linkedin.com/in/erik-b-1b446528b/) &nbsp;|&nbsp; ✉️ eboozell40@gmail.com
