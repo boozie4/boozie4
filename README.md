@@ -1,6 +1,6 @@
 # Hi, I'm Erik 👋
 
-**Deputy Station Manager → Cybersecurity | Founder @ Devguard Systems**  
+**Deputy Station Manager → Cybersecurity | Software Development | Founder @ Devguard Systems**  
 📍 Lake Geneva, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2028)
 
 ---
