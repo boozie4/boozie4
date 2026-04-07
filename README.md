@@ -1,8 +1,38 @@
-- 👋 Hi, I’m @boozie4
-- 🌱 I’m currently learning Software Engineering
-- I am new to this, but very excited to learn
+# Hi, I'm Erik 👋
 
-<!---
-boozie4/boozie4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Deputy Station Manager → Cybersecurity | Founder @ Devguard Systems**  
+📍 Lake Geneva, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2028)
+
+---
+
+### About me
+
+- 🛡️ Network ops leader by day — building a cybersecurity practice nights & weekends
+- 🏢 Founder of **[Devguard Systems]** — Managed SOC/NOC-as-a-Service, GRC Advisory, and Security Awareness Training for SMBs
+- 🎓 Pursuing MS in Software Engineering at Regis University
+- 🧠 Psychology background → human risk, social engineering & security behavior research
+- 📖 Currently studying for CISSP | Threat modeling | Kali Linux / ethical hacking
+
+---
+
+### 🔐 Security & Networking
+`SOC / NOC Ops` `Kali Linux` `Ethical Hacking` `Threat Modeling` `GRC Advisory` `CISSP (in progress)`
+
+### 💻 Development
+`Python` `JavaScript` `Flask` `Node.js` `HTML/CSS` `Java` `n8n Automation`
+
+---
+
+### Currently building
+
+- **Devguard Systems** — cybersecurity & IT services for the Lake Geneva–Kenosha–Milwaukee corridor
+- AI automation workflows for SMB clients (n8n, Python)
+- Penny stock & options screening tools
+
+---
+
+### Open to opportunities
+
+`Cybersecurity Operations Lead` `GRC Analyst` `Technical Support Engineering`
+
+📬 [LinkedIn](https://www.linkedin.com/in/erik-b-1b446528b/) &nbsp;|&nbsp; ✉️ eboozell40@gmail.com
