@@ -41,6 +41,6 @@ Psychology background → human risk modeling, social engineering defense, and s
 
 ### Open to Opportunities
 
-`Cybersecurity Operations Lead` `GRC Analyst` `Security Analyst` `SOC Engineer`
+`Cybersecurity Operations Lead` `GRC Analyst` `Security Analyst` `SOC Engineer` `Software Developer` `Software Engineer`
 
 📬 [LinkedIn](https://www.linkedin.com/in/erik-b-1b446528b/) &nbsp;|&nbsp; ✉️ eboozell40@gmail.com
