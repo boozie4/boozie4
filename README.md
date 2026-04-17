@@ -1,13 +1,13 @@
 # Hi, I'm Erik 👋
 
-**Cybersecurity Operations | GRC Advisory | MS Software Engineering**  
+**Software Development | Cybersecurity Operations | GRC Analysis | MS Software Engineering**  
 📍 Lake Geneva, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2028)
 
 ---
 
 ### About
 
-Network operations leader moving into cybersecurity. I build security tooling, automate threat detection workflows, and develop Python-based security automation tools.
+Network operations leader moving into cybersecurity and software development and engineering.. I build security tooling, automate threat detection workflows, and develop Python-based security automation tools.
 
 Psychology background → human risk modeling, social engineering defense, and security behavior research.
 
