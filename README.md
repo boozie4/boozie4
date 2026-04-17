@@ -1,37 +1,46 @@
 # Hi, I'm Erik 👋
 
-**Deputy Station Manager → Cybersecurity | Software Development | Founder @ Devguard Systems**  
+**Cybersecurity Operations | GRC Advisory | MS Software Engineering**  
 📍 Lake Geneva, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2028)
 
 ---
 
-### About me
+### About
 
-- 🛡️ Network ops leader by day — building a cybersecurity practice nights & weekends
-- 🏢 Founder of **[Devguard Systems]** — Managed SOC/NOC-as-a-Service, GRC Advisory, and Security Awareness Training for SMBs
-- 🎓 Pursuing MS in Software Engineering at Regis University
-- 🧠 Psychology background → human risk, social engineering & security behavior research
+Network operations leader moving into cybersecurity. I build security tooling, automate threat detection workflows, and develop Python-based security automation tools.
 
----
-
-### 🔐 Security & Networking
-`SOC / NOC Ops` `Kali Linux` `Ethical Hacking` `Threat Modeling` `GRC Advisory` `CISSP (in progress)`
-
-### 💻 Development
-`Python` `JavaScript` `Flask` `Node.js` `HTML/CSS` `Java` `n8n Automation`
+Psychology background → human risk modeling, social engineering defense, and security behavior research.
 
 ---
 
-### Currently building
+### 🔐 Security & Compliance
+`SOC / NOC Operations` `Threat Modeling` `GRC Advisory` `CISSP (in progress)` `Kali Linux` `Vulnerability Assessment` `IDS/IPS`
 
-- **Devguard Systems** — cybersecurity & IT services for the Lake Geneva–Kenosha–Milwaukee corridor
-- AI automation workflows for SMB clients (n8n, Python)
-- Penny stock & options screening tools
+### 💻 Development & Automation
+`Python` `Flask` `SQL` `JavaScript` `Selenium` `CI/CD` `n8n` `Linux`
 
 ---
 
-### Open to opportunities
+### Featured Projects
 
-`Cybersecurity Operations Technician` `GRC Analyst` `Technical Support Engineer` `Junior Software Developer`
+| Project | Description |
+|---|---|
+| [software-security-threat-analysis](https://github.com/boozie4/software-security-threat-analysis) | Security threat modeling, vulnerability analysis, and secure software design |
+| [selenium-web-automation-suite](https://github.com/boozie4/selenium-web-automation-suite) | End-to-end browser automation testing with Selenium WebDriver |
+| [software-test-case-analysis](https://github.com/boozie4/software-test-case-analysis) | Test case design, boundary value analysis, and equivalence partitioning |
+| [git-devops-fundamentals](https://github.com/boozie4/git-devops-fundamentals) | Version control, CI pipelines, and Python automation |
+
+---
+
+### Currently Building
+
+- Security automation workflows using Python and n8n
+- AI-assisted threat intelligence and incident response tooling
+
+---
+
+### Open to Opportunities
+
+`Cybersecurity Operations Lead` `GRC Analyst` `Security Analyst` `SOC Engineer`
 
 📬 [LinkedIn](https://www.linkedin.com/in/erik-b-1b446528b/) &nbsp;|&nbsp; ✉️ eboozell40@gmail.com
