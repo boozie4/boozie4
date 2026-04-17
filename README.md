@@ -1,7 +1,7 @@
 # Hi, I'm Erik 👋
 
 **Software Development | Cybersecurity Operations | GRC Analysis | MS Software Engineering**  
-📍 Lake Geneva, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2028)
+📍 Lake Geneva, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2027)
 
 ---
 
