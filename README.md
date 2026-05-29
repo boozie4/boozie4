@@ -7,17 +7,19 @@
 
 ### About
 
-Network operations leader moving into cybersecurity and software development and engineering.. I build security tooling, automate threat detection workflows, and develop Python-based security automation tools.
+Network operations leader moving into software development and engineering with a strong interest in cybersecurity. I build security tooling, automate threat detection workflows, and develop Python-based security automation tools.
+
+I also spend a lot of time working with different AI models (Claude, ChatGPT, Gemini) to learn their capabilities and improve my own projects. 
 
 Psychology background → human risk modeling, social engineering defense, and security behavior research.
 
 ---
 
-### 🔐 Security & Compliance
-`SOC / NOC Operations` `Threat Modeling` `GRC Advisory` `CISSP (in progress)` `Kali Linux` `Vulnerability Assessment` `IDS/IPS`
-
 ### 💻 Development & Automation
 `Python` `Flask` `SQL` `JavaScript` `Selenium` `CI/CD` `n8n` `Linux`
+
+### 🔐 Security & Compliance
+`SOC / NOC Operations` `Threat Modeling` `GRC Advisory` `CISSP (in progress)` `Kali Linux` `Vulnerability Assessment` `IDS/IPS`
 
 ---
 
