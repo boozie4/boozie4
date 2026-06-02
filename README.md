@@ -1,48 +1,136 @@
-# Hi, I'm Erik 👋
+# ▓▒░ DEVGUARD SYSTEMS TERMINAL v2.7 ░▒▓
 
-**Software Development | Cybersecurity Operations | GRC Analysis | MS Software Engineering**  
-📍 Burlington, WI &nbsp;|&nbsp; MS Software Engineering @ Regis University (exp. 2027)
+```text
+╔════════════════════════════════════════════════════════════╗
+║ DEVGUARD SYSTEMS :: PROFESSIONAL PROFILE                  ║
+║ STATUS: ONLINE                                            ║
+║ OPERATOR: ERIK BOOZELL                                    ║
+║ CLEARANCE LEVEL: SOFTWARE ENGINEERING                     ║
+║ THREAT LEVEL: LOW                                         ║
+╚════════════════════════════════════════════════════════════╝
+```
 
----
+## > WHOAMI
 
-### About
+```bash
+$ whoami
 
-Network operations leader moving into software development and engineering with a strong interest in cybersecurity. I build security tooling, automate threat detection workflows, and develop Python-based security automation tools.
+Erik Boozell
 
-I also spend a lot of time working with different AI models (Claude, ChatGPT, Gemini) to learn their capabilities and improve my own projects. 
+Software Development
+Cybersecurity Operations
+GRC Analysis
+MS Software Engineering
+```
 
-Psychology background → human risk modeling, social engineering defense, and security behavior research.
+📍 Burlington, WI
 
----
-
-### 💻 Development & Automation
-`Python` `Flask` `SQL` `JavaScript` `Selenium` `CI/CD` `n8n` `Linux`
-
-### 🔐 Security & Compliance
-`SOC / NOC Operations` `Threat Modeling` `GRC Advisory` `CISSP (in progress)` `Kali Linux` `Vulnerability Assessment` `IDS/IPS`
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [software-security-threat-analysis](https://github.com/boozie4/software-security-threat-analysis) | Security threat modeling, vulnerability analysis, and secure software design |
-| [selenium-web-automation-suite](https://github.com/boozie4/selenium-web-automation-suite) | End-to-end browser automation testing with Selenium WebDriver |
-| [software-test-case-analysis](https://github.com/boozie4/software-test-case-analysis) | Test case design, boundary value analysis, and equivalence partitioning |
-| [git-devops-fundamentals](https://github.com/boozie4/git-devops-fundamentals) | Version control, CI pipelines, and Python automation |
+🎓 MS Software Engineering @ Regis University (Expected 2027)
 
 ---
 
-### Currently Building
+## > PROFILE
 
-- Security automation workflows using Python and n8n
-- AI-assisted threat intelligence and incident response tooling
+```bash
+$ cat profile.txt
+```
+
+Network operations leader transitioning into software development and engineering with a strong interest in cybersecurity.
+
+I build security tooling, automate threat detection workflows, and develop Python-based security automation solutions.
+
+I actively work with Claude, ChatGPT, and Gemini to better understand AI capabilities and integrate them into practical software and security projects.
+
+Background in Psychology → Human Risk Modeling • Social Engineering Defense • Security Behavior Research
 
 ---
 
-### Open to Opportunities
+## > DEVELOPMENT TOOLKIT
 
-`Cybersecurity Operations Lead` `GRC Analyst` `Security Analyst` `SOC Engineer` `Software Developer` `Software Engineer`
+```text
+[ACTIVE]
+■ Python
+■ Flask
+■ SQL
+■ JavaScript
+■ Selenium
+■ CI/CD
+■ n8n
+■ Linux
+```
 
-📬 [LinkedIn](https://www.linkedin.com/in/erik-b-1b446528b/) &nbsp;|&nbsp; ✉️ eboozell40@gmail.com
+---
+
+## > SECURITY OPERATIONS
+
+```text
+[ONLINE]
+■ SOC / NOC Operations
+■ Threat Modeling
+■ GRC Advisory
+■ CISSP (In Progress)
+■ Kali Linux
+■ Vulnerability Assessment
+■ IDS / IPS
+```
+
+---
+
+## > FEATURED PROJECTS
+
+| Operation                         | Description                                                                  |
+| --------------------------------- | ---------------------------------------------------------------------------- |
+| software-security-threat-analysis | Security threat modeling, vulnerability analysis, and secure software design |
+| selenium-web-automation-suite     | End-to-end browser automation testing with Selenium WebDriver                |
+| software-test-case-analysis       | Test case design, boundary value analysis, and equivalence partitioning      |
+| git-devops-fundamentals           | Version control, CI pipelines, and Python automation                         |
+
+---
+
+## > CURRENT OPERATIONS
+
+```text
+MISSION STATUS: ACTIVE
+
+■ Security automation workflows using Python and n8n
+■ AI-assisted threat intelligence tooling
+■ Incident response automation
+```
+
+---
+
+## > OPEN TO OPPORTUNITIES
+
+```text
+AVAILABLE FOR DEPLOYMENT
+
+■ Cybersecurity Operations Lead
+■ GRC Analyst
+■ Security Analyst
+■ SOC Engineer
+■ Software Developer
+■ Software Engineer
+```
+
+---
+
+## > CONTACT
+
+📬 LinkedIn
+
+✉️ [eboozell40@gmail.com](mailto:eboozell40@gmail.com)
+
+---
+
+```bash
+$ system_status
+
+ONLINE
+
+$ mission
+
+Build secure software.
+Automate repetitive work.
+Defend systems.
+Continue learning.
+```
