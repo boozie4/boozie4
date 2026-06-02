@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%24+whoami;Erik+Boozell;Software+Developer+%7C+Cybersecurity+Operations+%7C+GRC;Building+secure+systems+and+automation+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=980&lines=%24+whoami;Erik+Boozell;Software+Engineer+%7C+Automation+Builder+%7C+Secure+Systems;Building+practical+tools+with+a+security-minded+approach" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:052e16,55:14532d,80:0f766e,100:f59e0b&height=250&section=header&text=ERIK%20BOOZELL&fontSize=42&fontColor=86efac&animation=fadeIn&fontAlignY=36&desc=%3E%20secure%20software%20_%20cybersecurity%20ops%20_%20grc%20analysis&descAlignY=58&descAlign=50" alt="Cybersecurity banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:052e16,55:14532d,80:0f766e,100:f59e0b&height=250&section=header&text=ERIK%20BOOZELL&fontSize=42&fontColor=86efac&animation=fadeIn&fontAlignY=36&desc=%3E%20software%20engineering%20_%20automation%20_%20secure%20systems&descAlignY=58&descAlign=50" alt="Cybersecurity banner" />
 </div>
 
 ```text
 ┌───────────────────────────────────────────────────────────────────────┐
 │  BOOT SEQUENCE: OK                                                   │
 │  USER............. erik_boozell                                      │
-│  ROLE............. software engineer / cyber operations / grc        │
+│  ROLE............. software engineer / automation / secure systems   │
 │  LOCATION......... Burlington, WI                                    │
-│  STATUS........... open to new opportunities                         │
+│  STATUS........... open to software engineering opportunities        │
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -21,7 +21,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=boozie4&label=terminal%20views&color=22c55e&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/boozie4?color=14b8a6&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/boozie4?affiliations=OWNER%2CCOLLABORATOR&color=eab308&style=for-the-badge)
-![Focus](https://img.shields.io/badge/focus-security%20automation-111827?style=for-the-badge&logo=gnubash&logoColor=22c55e)
+![Focus](https://img.shields.io/badge/focus-software%20engineering-111827?style=for-the-badge&logo=gnubash&logoColor=22c55e)
 
 </div>
 
@@ -34,16 +34,15 @@ $ whoami
 Erik Boozell
 
 $ echo $TITLE
-Software Developer | Cybersecurity Operations | GRC Analysis
+Software Engineer | Automation Builder | Secure Systems
 
 $ cat education.log
 MS Software Engineering @ Regis University
 Expected Graduation: 2027
 
 $ cat mission.txt
-Build secure, practical, and efficient systems that improve
-operations, automate detection workflows, and strengthen
-real-world security posture.
+Design and build practical software, automation workflows,
+and developer-facing solutions with a strong security mindset.
 ```
 
 ---
@@ -53,25 +52,22 @@ real-world security posture.
 ```bash
 erik@retro-terminal:~$ cat profile.txt
 
-Network operations leader transitioning into software development
-with a strong interest in cybersecurity engineering.
+I am focused on software engineering, automation, and building
+practical tools that improve workflows and solve operational problems.
 
-I build security tooling, automate threat detection workflows,
-and create Python-based solutions for operational efficiency.
+My background in cybersecurity influences how I think about
+reliability, resilience, risk, and secure implementation.
 
-I actively work with AI models including Claude, ChatGPT,
-and Gemini to evaluate their strengths and apply them to
-practical engineering and security projects.
+I enjoy working across Python, web tooling, automation pipelines,
+and systems that turn repetitive work into scalable processes.
 
-Background signal:
-- psychology-informed risk thinking
-- social engineering defense awareness
-- security behavior research interest
+I also actively explore AI tools including Claude, ChatGPT,
+and Gemini to improve developer workflows and accelerate projects.
 ```
 
 ---
 
-## `> loadout`
+## `> engineering_stack`
 
 <div align="center">
 
@@ -84,12 +80,15 @@ Background signal:
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0b0f10?style=for-the-badge&logo=githubactions&logoColor=38bdf8)
 ![n8n](https://img.shields.io/badge/n8n-0b0f10?style=for-the-badge&logo=n8n&logoColor=f97316)
 
+</div>
+
+<div align="center">
+
+![Secure Design](https://img.shields.io/badge/Secure%20Design-052e16?style=for-the-badge&logoColor=22c55e)
 ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-052e16?style=for-the-badge&logoColor=22c55e)
-![GRC Advisory](https://img.shields.io/badge/GRC%20Advisory-052e16?style=for-the-badge&logoColor=22c55e)
-![SOC%20%2F%20NOC](https://img.shields.io/badge/SOC%20%2F%20NOC-052e16?style=for-the-badge&logoColor=22c55e)
+![GRC Awareness](https://img.shields.io/badge/GRC%20Awareness-052e16?style=for-the-badge&logoColor=22c55e)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-052e16?style=for-the-badge&logoColor=eab308)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-052e16?style=for-the-badge&logoColor=38bdf8)
-![CISSP In Progress](https://img.shields.io/badge/CISSP-In%20Progress-052e16?style=for-the-badge&logoColor=f59e0b)
+![SOC Background](https://img.shields.io/badge/SOC%20Background-052e16?style=for-the-badge&logoColor=38bdf8)
 
 </div>
 
@@ -97,22 +96,46 @@ Background signal:
 
 ## `> featured_projects`
 
-| Project | Description |
-|---|---|
-| [software-security-threat-analysis](https://github.com/boozie4/software-security-threat-analysis) | Security threat modeling, vulnerability analysis, and secure software design |
-| [selenium-web-automation-suite](https://github.com/boozie4/selenium-web-automation-suite) | End-to-end browser automation testing with Selenium WebDriver |
-| [software-test-case-analysis](https://github.com/boozie4/software-test-case-analysis) | Test case design, boundary value analysis, and equivalence partitioning |
-| [git-devops-fundamentals](https://github.com/boozie4/git-devops-fundamentals) | Version control, CI pipelines, and Python automation |
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [Software Security Threat Analysis](https://github.com/boozie4/software-security-threat-analysis)
+Security threat modeling, vulnerability analysis, and secure software design work focused on identifying weaknesses early in the development lifecycle.
+
+</td>
+<td width="50%">
+
+### 🤖 [Selenium Web Automation Suite](https://github.com/boozie4/selenium-web-automation-suite)
+End-to-end browser automation project using Selenium WebDriver to build repeatable, testable, and efficient web workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧪 [Software Test Case Analysis](https://github.com/boozie4/software-test-case-analysis)
+Test design work centered on boundary value analysis, equivalence partitioning, and structured quality-focused thinking.
+
+</td>
+<td width="50%">
+
+### ⚙️ [Git DevOps Fundamentals](https://github.com/boozie4/git-devops-fundamentals)
+Version control, CI pipeline fundamentals, and Python automation patterns that support modern software delivery practices.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `> currently_building`
 
 ```bash
-[+] Security automation workflows using Python and n8n
-[+] AI-assisted threat intelligence and incident response tooling
-[+] Practical engineering projects with strong security alignment
-[+] Repeatable workflows for analysis, monitoring, and response
+[+] Automation workflows using Python and n8n
+[+] Software projects with practical security-minded design
+[+] Tooling that improves repeatability, monitoring, and response
+[+] Better developer workflows with AI-assisted experimentation
 ```
 
 ---
@@ -120,8 +143,12 @@ Background signal:
 ## `> metrics`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boozie4&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050816&title_color=22c55e&icon_color=eab308&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=boozie4&theme=chartreuse-dark&hide_border=true&background=050816&ring=22C55E&fire=EAB308&currStreakLabel=22C55E" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=boozie4&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050816&title_color=22c55e&icon_color=eab308&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boozie4&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050816&title_color=22c55e&text_color=c9d1d9" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boozie4&theme=matrix&no-frame=true&no-bg=true&row=1&column=4&margin-w=15" alt="GitHub trophies" />
 </div>
 
 <div align="center">
@@ -133,20 +160,20 @@ Background signal:
 ## `> opportunity_status`
 
 ```text
-[ RECRUITER-FRIENDLY SUMMARY ]
+[ SOFTWARE ENGINEERING FOCUS ]
 
 Open to roles in:
-- Cybersecurity Operations
-- GRC / Security Analysis
-- Security Analyst / SOC Engineering
-- Software Development
 - Software Engineering
+- Software Development
+- Automation Engineering
+- Security-Focused Engineering
+- Cybersecurity / Engineering Hybrid Roles
 
-Value offered:
-- operational leadership experience
-- security-minded engineering approach
-- automation-first problem solving
-- strong interest in building practical tools
+Strengths:
+- practical, systems-minded problem solving
+- automation-first thinking
+- secure-by-design perspective
+- experience bridging operations and engineering
 ```
 
 ---
@@ -164,7 +191,7 @@ Value offered:
 
 ```text
 > system.status
-[ONLINE] Shipping secure ideas into practical systems.
-[ONLINE] Learning fast, building consistently, improving daily.
-[ONLINE] Ready for the next mission.
+[ONLINE] Building software that is practical, efficient, and secure.
+[ONLINE] Focused on engineering growth, automation, and delivery.
+[ONLINE] Ready for the next build.
 ```
