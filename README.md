@@ -1,136 +1,57 @@
-# ▓▒░ DEVGUARD SYSTEMS TERMINAL v2.7 ░▒▓
+# 🖥️ Erik's Workstation
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║ DEVGUARD SYSTEMS :: PROFESSIONAL PROFILE                  ║
-║ STATUS: ONLINE                                            ║
-║ OPERATOR: ERIK BOOZELL                                    ║
-║ CLEARANCE LEVEL: SOFTWARE ENGINEERING                     ║
-║ THREAT LEVEL: LOW                                         ║
-╚════════════════════════════════════════════════════════════╝
+My Computer
+├── About Me
+├── Development
+├── Cybersecurity
+├── Projects
+├── Current Work
+└── Contact
 ```
 
-## > WHOAMI
+## 📁 About Me
 
-```bash
-$ whoami
+**Name:** Erik Boozell
+**Location:** Burlington, WI
+**Education:** MS Software Engineering @ Regis University (Expected 2027)
 
-Erik Boozell
+Network operations leader transitioning into software development, cybersecurity operations, and engineering.
 
-Software Development
-Cybersecurity Operations
-GRC Analysis
-MS Software Engineering
-```
+Psychology background with interests in:
 
-📍 Burlington, WI
-
-🎓 MS Software Engineering @ Regis University (Expected 2027)
+* Human risk modeling
+* Security behavior research
+* Social engineering defense
 
 ---
 
-## > PROFILE
+## 📁 Development
 
-```bash
-$ cat profile.txt
-```
-
-Network operations leader transitioning into software development and engineering with a strong interest in cybersecurity.
-
-I build security tooling, automate threat detection workflows, and develop Python-based security automation solutions.
-
-I actively work with Claude, ChatGPT, and Gemini to better understand AI capabilities and integrate them into practical software and security projects.
-
-Background in Psychology → Human Risk Modeling • Social Engineering Defense • Security Behavior Research
+Python • Flask • SQL • JavaScript • Selenium • CI/CD • n8n • Linux
 
 ---
 
-## > DEVELOPMENT TOOLKIT
+## 📁 Cybersecurity
 
-```text
-[ACTIVE]
-■ Python
-■ Flask
-■ SQL
-■ JavaScript
-■ Selenium
-■ CI/CD
-■ n8n
-■ Linux
-```
+SOC/NOC Operations • Threat Modeling • GRC Advisory • CISSP (In Progress) • Kali Linux • Vulnerability Assessment • IDS/IPS
 
 ---
 
-## > SECURITY OPERATIONS
+## 📁 Projects
 
-```text
-[ONLINE]
-■ SOC / NOC Operations
-■ Threat Modeling
-■ GRC Advisory
-■ CISSP (In Progress)
-■ Kali Linux
-■ Vulnerability Assessment
-■ IDS / IPS
-```
+📄 software-security-threat-analysis
+
+📄 selenium-web-automation-suite
+
+📄 software-test-case-analysis
+
+📄 git-devops-fundamentals
 
 ---
 
-## > FEATURED PROJECTS
+## 📁 Current Work
 
-| Operation                         | Description                                                                  |
-| --------------------------------- | ---------------------------------------------------------------------------- |
-| software-security-threat-analysis | Security threat modeling, vulnerability analysis, and secure software design |
-| selenium-web-automation-suite     | End-to-end browser automation testing with Selenium WebDriver                |
-| software-test-case-analysis       | Test case design, boundary value analysis, and equivalence partitioning      |
-| git-devops-fundamentals           | Version control, CI pipelines, and Python automation                         |
-
----
-
-## > CURRENT OPERATIONS
-
-```text
-MISSION STATUS: ACTIVE
-
-■ Security automation workflows using Python and n8n
-■ AI-assisted threat intelligence tooling
-■ Incident response automation
-```
-
----
-
-## > OPEN TO OPPORTUNITIES
-
-```text
-AVAILABLE FOR DEPLOYMENT
-
-■ Cybersecurity Operations Lead
-■ GRC Analyst
-■ Security Analyst
-■ SOC Engineer
-■ Software Developer
-■ Software Engineer
-```
-
----
-
-## > CONTACT
-
-📬 LinkedIn
-
-✉️ [eboozell40@gmail.com](mailto:eboozell40@gmail.com)
-
----
-
-```bash
-$ system_status
-
-ONLINE
-
-$ mission
-
-Build secure software.
-Automate repetitive work.
-Defend systems.
-Continue learning.
-```
+* Security automation workflows
+* AI-assisted threat intelligence
+* Incident response tooling
