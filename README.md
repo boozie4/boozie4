@@ -1,57 +1,83 @@
-# 🖥️ Erik's Workstation
+# 🛡 DEVGUARD SYSTEMS
+
+## CYBER OPERATIONS CENTER
 
 ```text
-My Computer
-├── About Me
-├── Development
-├── Cybersecurity
-├── Projects
-├── Current Work
-└── Contact
+═══════════════════════════════════════
+OPERATOR: ERIK BOOZELL
+STATUS: ONLINE
+CLEARANCE: SOFTWARE ENGINEERING
+LOCATION: BURLINGTON, WI
+═══════════════════════════════════════
 ```
 
-## 📁 About Me
+### ACTIVE PROFILE
 
-**Name:** Erik Boozell
-**Location:** Burlington, WI
-**Education:** MS Software Engineering @ Regis University (Expected 2027)
+Network Operations Leader
 
-Network operations leader transitioning into software development, cybersecurity operations, and engineering.
+Software Developer
 
-Psychology background with interests in:
+Cybersecurity Practitioner
 
-* Human risk modeling
-* Security behavior research
-* Social engineering defense
+MS Software Engineering Candidate
+
+Psychology Graduate
 
 ---
 
-## 📁 Development
+### ACTIVE SYSTEMS
 
-Python • Flask • SQL • JavaScript • Selenium • CI/CD • n8n • Linux
+[ONLINE] Python
 
----
+[ONLINE] Flask
 
-## 📁 Cybersecurity
+[ONLINE] SQL
 
-SOC/NOC Operations • Threat Modeling • GRC Advisory • CISSP (In Progress) • Kali Linux • Vulnerability Assessment • IDS/IPS
+[ONLINE] JavaScript
 
----
+[ONLINE] Linux
 
-## 📁 Projects
+[ONLINE] Selenium
 
-📄 software-security-threat-analysis
+[ONLINE] CI/CD
 
-📄 selenium-web-automation-suite
-
-📄 software-test-case-analysis
-
-📄 git-devops-fundamentals
+[ONLINE] n8n
 
 ---
 
-## 📁 Current Work
+### ACTIVE SECURITY CAPABILITIES
 
-* Security automation workflows
-* AI-assisted threat intelligence
-* Incident response tooling
+[ONLINE] SOC Operations
+
+[ONLINE] Threat Modeling
+
+[ONLINE] GRC Analysis
+
+[ONLINE] Vulnerability Assessment
+
+[ONLINE] IDS/IPS
+
+[ONLINE] Kali Linux
+
+[CERTIFICATION IN PROGRESS] CISSP
+
+---
+
+### ACTIVE MISSIONS
+
+MISSION 001:
+Security Automation Workflows
+
+MISSION 002:
+AI-Assisted Threat Intelligence
+
+MISSION 003:
+Incident Response Automation
+
+MISSION 004:
+Software Engineering Graduate Program
+
+STATUS: IN PROGRESS
+
+```
+```
